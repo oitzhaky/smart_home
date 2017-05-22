@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IoT AWS</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_suscribe">Subscribe</string>
+    <string name="button_publish">Publish</string>
+    <string name="edit_subscribe_topic">Enter topic</string>
+    <string name="edit_publish_topic">Enter topic</string>
+    <string name="button_connect">Connect</string>
+    <string name="edit_message_suscribe">Enter message</string>
+    <string name="txt_view">status</string>
+</resources>
